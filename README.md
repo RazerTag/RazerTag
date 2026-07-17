@@ -14,13 +14,13 @@ I like building practical systems: command-line tools, bots, media pipelines, an
 
 ## Selected Projects
 
-### ysml - YouTube Shorts ML Pipeline
+### [ysml - YouTube Shorts ML Pipeline](https://github.com/RazerTag/shorts-project)
 
 Python CLI for cutting long-form videos, transcribing speech with Whisper, and burning `.srt` or dynamic `.ass` subtitles into short-form video assets.
 
 Tech: Python, Typer, Pydantic, faster-whisper, ffmpeg, pytest
 
-### Chapper
+### [Chapper](https://github.com/RazerTag/Chapper)
 
 Co-authored offline messaging prototype focused on peer-to-peer communication without internet access. I keep it on my profile as a collaborative systems project rather than as my main specialization.
 
