@@ -20,23 +20,23 @@ Python CLI for cutting long-form videos, transcribing speech with Whisper, and b
 
 Tech: Python, Typer, Pydantic, faster-whisper, ffmpeg, pytest
 
-### [Chapper](https://github.com/RazerTag/Chapper)
-
-Co-authored offline messaging prototype focused on peer-to-peer communication without internet access. I keep it on my profile as a collaborative systems project rather than as my main specialization.
-
-Tech: Android, Kotlin, Bluetooth, local persistence
-
-### Telegram Event & Points Bot
+### [Telegram Event & Points Bot](https://github.com/RazerTag/kibiki_bot)
 
 Community automation bot for event registration, check-ins, points, rankings, announcements, and scheduled reminders.
 
 Tech: Python, Aiogram, APScheduler, CSV-based persistence
 
-### AI Background Tool
+### [AI Background Tool](https://github.com/RazerTag/AI-background)
 
 Prototype for removing image backgrounds, composing new scenes, and generating replacement backgrounds through an image-generation pipeline.
 
 Tech: Python, Gradio, rembg, diffusers, Pillow
+
+### [Chapper](https://github.com/RazerTag/Chapper)
+
+Co-authored offline messaging prototype focused on peer-to-peer communication without internet access. I keep it on my profile as a collaborative systems project rather than as my main specialization.
+
+Tech: Android, Kotlin, Bluetooth, local persistence
 
 ## What I Care About
 
